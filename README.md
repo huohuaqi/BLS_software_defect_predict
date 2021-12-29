@@ -12,7 +12,9 @@ https://github.com/feiwww/PROMISE-backup
 
 本项目的结构
 promise_dataset 数据集
+
 bug_*.py  四种方法的对比lr svm nn bls
+
 tool_*.py  一些工具，例如读取数据 计算f1 等
 
 实验环境：python3.6， tensorflow-2.3
